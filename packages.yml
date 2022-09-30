@@ -1,0 +1,9 @@
+name: conda_env
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - seaborn
+  - scikit-learn
+prefix: C:\Users\Kirill\anaconda3\envs\conda_env
